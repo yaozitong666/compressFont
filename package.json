@@ -1,0 +1,10 @@
+{
+  "name": "compress font",
+  "version": "1.0.0",
+  "description": "压缩字体",
+  "author": "yzt",
+  "private": false,
+  "devDependencies": {
+    "fontmin": "^0.9.7-beta"
+  }
+}

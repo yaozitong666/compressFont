@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "FZLanTingHeiS-H-GB";
+    src: url("兰亭特黑简.eot"); /* IE9 */
+    src: url("兰亭特黑简.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("兰亭特黑简.woff") format("woff"), /* chrome, firefox */
+    url("兰亭特黑简.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("兰亭特黑简.svg#FZLanTingHeiS-H-GB") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
